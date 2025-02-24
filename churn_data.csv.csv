@@ -1,0 +1,101 @@
+CustomerID,Churn,LastInteractionDate,Churn month,ReasonForChurn
+CUST0001,No,,,
+CUST0002,Yes,24 August 2021,Aug,Price
+CUST0003,No,,,
+CUST0004,Yes,25 July 2026,Jul,Technical Issues
+CUST0005,No,,,
+CUST0006,No,,,
+CUST0007,No,,,
+CUST0008,No,,,
+CUST0009,No,,,
+CUST0010,Yes,24 January 2024,Jan,Technical Issues
+CUST0011,No,,,
+CUST0012,No,,,
+CUST0013,No,,,
+CUST0014,No,,,
+CUST0015,Yes,16 September 2021,Sep,Price
+CUST0016,No,,,
+CUST0017,No,,,
+CUST0018,No,,,
+CUST0019,No,,,
+CUST0020,No,,,
+CUST0021,No,,,
+CUST0022,No,,,
+CUST0023,Yes,14 May 2023,May,Service Quality
+CUST0024,Yes,22 January 2025,Jan,Other
+CUST0025,Yes,31 July 2021,Jul,Service Quality
+CUST0026,Yes,30 November 2023,Nov,Service Quality
+CUST0027,Yes,25 December 2022,Dec,Service Quality
+CUST0028,Yes,02 August 2024,Aug,Price
+CUST0029,No,,,
+CUST0030,Yes,07 December 2023,Dec,Technical Issues
+CUST0031,No,,,
+CUST0032,Yes,27 April 2024,Apr,Service Quality
+CUST0033,No,,,
+CUST0034,No,,,
+CUST0035,No,,,
+CUST0036,Yes,05 February 2026,Feb,Price
+CUST0037,No,,,
+CUST0038,No,,,
+CUST0039,No,,,
+CUST0040,No,,,
+CUST0041,No,,,
+CUST0042,Yes,18 July 2021,Jul,Service Quality
+CUST0043,No,,,
+CUST0044,No,,,
+CUST0045,No,,,
+CUST0046,No,,,
+CUST0047,No,,,
+CUST0048,No,,,
+CUST0049,Yes,23 March 2025,Mar,Service Quality
+CUST0050,No,,,
+CUST0051,No,,,
+CUST0052,No,,,
+CUST0053,Yes,26 June 2024,Jun,Price
+CUST0054,Yes,20 June 2024,Jun,Technical Issues
+CUST0055,No,,,
+CUST0056,No,,,
+CUST0057,No,,,
+CUST0058,Yes,08 November 2022,Nov,Technical Issues
+CUST0059,No,,,
+CUST0060,No,,,
+CUST0061,Yes,02 October 2026,Oct,Other
+CUST0062,No,,,
+CUST0063,Yes,22 September 2025,Sep,Price
+CUST0064,Yes,28 June 2021,Jun,Other
+CUST0065,No,,,
+CUST0066,No,,,
+CUST0067,No,,,
+CUST0068,No,,,
+CUST0069,No,,,
+CUST0070,No,,,
+CUST0071,No,,,
+CUST0072,No,,,
+CUST0073,No,,,
+CUST0074,No,,,
+CUST0075,No,,,
+CUST0076,No,,,
+CUST0077,No,,,
+CUST0078,Yes,22 April 2026,Apr,Other
+CUST0079,No,,,
+CUST0080,No,,,
+CUST0081,Yes,07 February 2024,Feb,Other
+CUST0082,Yes,22 July 2024,Jul,Technical Issues
+CUST0083,No,,,
+CUST0084,No,,,
+CUST0085,No,,,
+CUST0086,Yes,30 November 2023,Nov,Price
+CUST0087,No,,,
+CUST0088,Yes,21 November 2022,Nov,Other
+CUST0089,Yes,28 January 2026,Jan,Price
+CUST0090,Yes,12 September 2026,Sep,Price
+CUST0091,No,,,
+CUST0092,No,,,
+CUST0093,No,,,
+CUST0094,No,,,
+CUST0095,No,,,
+CUST0096,No,,,
+CUST0097,No,,,
+CUST0098,No,,,
+CUST0099,No,,,
+CUST0100,No,,,

@@ -1,0 +1,101 @@
+CustomerID,Tenure (Months),Tenure years,InternetService,Contract,MonthlyCharges,monthly charges,TotalCharges,total charges,payment method,online security,online backup,Tech support,streaming tv,streaming movie
+CUST0001,60,5,Fiber Optic,One year,26.63,27,1597.8,1598,UPI,Yes,Yes,Yes,Yes,No
+CUST0002,63,5.3,DSL,Month-to-month,62.27,63,3923.01,3924,net banking,Yes,Yes,Yes,Yes,No
+CUST0003,32,2.7,None,One year,54.91,55,1757.12,1758,Electronic Check,Yes,Yes,Yes,No,No
+CUST0004,33,2.8,DSL,Month-to-month,84.17,85,2777.61,2778,Mailed check,Yes,No,Yes,No,No
+CUST0005,67,5.6,Fiber Optic,Two year,98.23,99,6581.41,6582,UPI,Yes,No,Yes,Yes,No
+CUST0006,18,1.5,Fiber Optic,Two year,64.48,65,1160.64,1161,net banking,Yes,Yes,No,No,Yes
+CUST0007,25,2.1,Fiber Optic,Month-to-month,45.81,46,1145.25,1146,Electronic Check,Yes,No,No,No,Yes
+CUST0008,54,4.5,DSL,Month-to-month,23.47,24,1267.38,1268,UPI,No,No,Yes,Yes,No
+CUST0009,58,4.8,Fiber Optic,Month-to-month,93.97,94,5450.26,5451,net banking,Yes,Yes,Yes,Yes,No
+CUST0010,67,5.6,Fiber Optic,Two year,93.53,94,6266.51,6267,Electronic Check,Yes,Yes,Yes,Yes,No
+CUST0011,46,3.8,DSL,Month-to-month,40.24,41,1851.04,1852,Mailed check,Yes,Yes,Yes,Yes,No
+CUST0012,24,2,None,Two year,75.63,76,1815.12,1816,UPI,Yes,Yes,No,No,Yes
+CUST0013,32,2.7,DSL,One year,26.03,27,832.96,833,net banking,No,No,Yes,No,No
+CUST0014,47,3.9,Fiber Optic,Two year,33.3,34,1565.1,1566,Electronic Check,No,No,Yes,Yes,No
+CUST0015,23,1.9,Fiber Optic,Two year,37.34,38,858.82,859,UPI,Yes,Yes,No,No,Yes
+CUST0016,66,5.5,DSL,One year,43.56,44,2874.96,2875,net banking,Yes,No,Yes,Yes,No
+CUST0017,27,2.3,None,Two year,99.67,100,2691.09,2692,Electronic Check,Yes,Yes,No,No,Yes
+CUST0018,2,0.2,Fiber Optic,Month-to-month,75.75,76,151.5,152,Mailed check,Yes,No,No,No,Yes
+CUST0019,17,1.4,Fiber Optic,Month-to-month,50.74,51,862.58,863,UPI,Yes,No,No,No,Yes
+CUST0020,33,2.8,Fiber Optic,Two year,78.97,79,2606.01,2607,net banking,Yes,No,Yes,No,No
+CUST0021,9,0.8,DSL,Month-to-month,93.22,94,838.98,839,Electronic Check,Yes,No,No,No,Yes
+CUST0022,43,3.6,Fiber Optic,Two year,96.7,97,4158.1,4159,UPI,Yes,No,Yes,Yes,No
+CUST0023,48,4,None,Month-to-month,24.63,25,1182.24,1183,net banking,No,Yes,Yes,Yes,No
+CUST0024,39,3.3,Fiber Optic,Month-to-month,51.56,52,2010.84,2011,Electronic Check,Yes,Yes,Yes,Yes,No
+CUST0025,42,3.5,Fiber Optic,Two year,28.54,29,1198.68,1199,Mailed check,No,No,Yes,Yes,No
+CUST0026,26,2.2,None,Month-to-month,46.85,47,1218.1,1219,UPI,Yes,No,No,No,Yes
+CUST0027,50,4.2,Fiber Optic,Two year,33.57,34,1678.5,1679,net banking,No,No,Yes,Yes,No
+CUST0028,25,2.1,DSL,Month-to-month,71.75,72,1793.75,1794,Electronic Check,Yes,Yes,No,No,Yes
+CUST0029,24,2,DSL,Month-to-month,51.06,52,1225.44,1226,UPI,Yes,No,No,No,Yes
+CUST0030,13,1.1,DSL,One year,38.35,39,498.55,499,net banking,Yes,No,No,No,Yes
+CUST0031,60,5,None,One year,41.28,42,2476.8,2477,Electronic Check,Yes,No,Yes,Yes,No
+CUST0032,7,0.6,Fiber Optic,Two year,48.83,49,341.81,342,Mailed check,Yes,Yes,No,No,Yes
+CUST0033,57,4.8,DSL,One year,40.8,41,2325.6,2326,UPI,Yes,No,Yes,Yes,No
+CUST0034,36,3,None,Two year,56.26,57,2025.36,2026,net banking,Yes,Yes,Yes,Yes,No
+CUST0035,45,3.8,Fiber Optic,One year,22.59,23,1016.55,1017,Electronic Check,No,No,Yes,Yes,No
+CUST0036,20,1.7,None,Month-to-month,42.38,43,847.6,848,UPI,Yes,Yes,No,No,Yes
+CUST0037,65,5.4,DSL,Two year,52.9,53,,0,net banking,Yes,No,Yes,Yes,No
+CUST0038,8,0.7,DSL,Two year,68.22,69,545.76,546,Electronic Check,Yes,Yes,No,No,Yes
+CUST0039,16,1.3,DSL,Month-to-month,41.68,42,666.88,667,Mailed check,Yes,No,No,No,Yes
+CUST0040,14,1.2,None,Two year,30.65,31,429.1,430,UPI,No,No,No,No,Yes
+CUST0041,15,1.3,None,Two year,26.1,27,391.5,392,net banking,No,No,No,No,Yes
+CUST0042,66,5.5,DSL,One year,95.24,96,6285.84,6286,Electronic Check,Yes,No,Yes,Yes,No
+CUST0043,32,2.7,None,Two year,53.33,54,1706.56,1707,UPI,Yes,Yes,Yes,No,No
+CUST0044,63,5.3,DSL,Month-to-month,66.49,67,4188.87,4189,net banking,Yes,No,Yes,Yes,No
+CUST0045,51,4.3,DSL,One year,93.53,94,,0,Electronic Check,Yes,Yes,Yes,Yes,No
+CUST0046,25,2.1,Fiber Optic,One year,26.62,27,665.5,666,Mailed check,No,Yes,No,No,Yes
+CUST0047,58,4.8,None,Month-to-month,90.13,91,5227.54,5228,UPI,Yes,No,Yes,Yes,No
+CUST0048,63,5.3,DSL,Month-to-month,64.13,65,4040.19,4041,net banking,Yes,Yes,Yes,Yes,No
+CUST0049,62,5.2,DSL,One year,33.19,34,2057.78,2058,Electronic Check,No,Yes,Yes,Yes,No
+CUST0050,22,1.8,None,Two year,52.9,53,1163.8,1164,UPI,Yes,Yes,No,No,Yes
+CUST0051,58,4.8,Fiber Optic,One year,82.21,83,4768.18,4769,net banking,Yes,No,Yes,Yes,No
+CUST0052,58,4.8,Fiber Optic,Month-to-month,58.43,59,3388.94,3389,Electronic Check,Yes,Yes,Yes,Yes,No
+CUST0053,49,4.1,DSL,One year,98.82,99,4842.18,4843,Mailed check,Yes,Yes,Yes,Yes,No
+CUST0054,52,4.3,None,Month-to-month,50.14,51,2607.28,2608,UPI,Yes,Yes,Yes,Yes,No
+CUST0055,42,3.5,Fiber Optic,One year,79.97,80,3358.74,3359,net banking,Yes,Yes,Yes,Yes,No
+CUST0056,70,5.8,None,Two year,51.44,52,3600.8,3601,Electronic Check,Yes,No,Yes,Yes,No
+CUST0057,15,1.3,None,One year,86.33,87,1294.95,1295,UPI,Yes,Yes,No,No,Yes
+CUST0058,54,4.5,DSL,One year,65.53,66,3538.62,3539,net banking,Yes,No,Yes,Yes,No
+CUST0059,60,5,Fiber Optic,Month-to-month,25.08,26,1504.8,1505,Electronic Check,No,Yes,Yes,Yes,No
+CUST0060,8,0.7,DSL,Month-to-month,22.95,23,183.6,184,Mailed check,No,Yes,No,No,Yes
+CUST0061,53,4.4,Fiber Optic,Month-to-month,30.71,31,1627.63,1628,UPI,No,No,Yes,Yes,No
+CUST0062,60,5,Fiber Optic,One year,21.09,22,1265.4,1266,net banking,No,Yes,Yes,Yes,No
+CUST0063,5,0.4,Fiber Optic,Two year,26.03,27,130.15,131,Electronic Check,No,Yes,No,No,Yes
+CUST0064,68,5.7,Fiber Optic,Month-to-month,75.34,76,,0,UPI,Yes,No,Yes,Yes,No
+CUST0065,6,0.5,Fiber Optic,Month-to-month,62.75,63,376.5,377,net banking,Yes,Yes,No,No,Yes
+CUST0066,47,3.9,None,One year,79.99,80,3759.53,3760,Electronic Check,Yes,No,Yes,Yes,No
+CUST0067,55,4.6,DSL,Month-to-month,93.05,94,5117.75,5118,Mailed check,Yes,Yes,Yes,Yes,No
+CUST0068,40,3.3,None,Two year,66.81,67,2672.4,2673,UPI,Yes,Yes,Yes,Yes,No
+CUST0069,52,4.3,Fiber Optic,Two year,78.09,79,4060.68,4061,net banking,Yes,No,Yes,Yes,No
+CUST0070,16,1.3,DSL,Month-to-month,80.57,81,1289.12,1290,Electronic Check,Yes,Yes,No,No,Yes
+CUST0071,13,1.1,Fiber Optic,Month-to-month,50.23,51,652.99,653,UPI,Yes,No,No,No,Yes
+CUST0072,30,2.5,DSL,One year,39.29,40,1178.7,1179,net banking,Yes,No,No,No,Yes
+CUST0073,19,1.6,None,Two year,36.4,37,691.6,692,Electronic Check,Yes,No,No,No,Yes
+CUST0074,17,1.4,DSL,Two year,40.12,41,682.04,683,Mailed check,Yes,No,No,No,Yes
+CUST0075,63,5.3,DSL,Month-to-month,41.98,42,2644.74,2645,UPI,Yes,No,Yes,Yes,No
+CUST0076,19,1.6,DSL,One year,36.58,37,695.02,696,net banking,Yes,Yes,No,No,Yes
+CUST0077,58,4.8,DSL,Two year,90.26,91,5235.08,5236,Electronic Check,Yes,No,Yes,Yes,No
+CUST0078,55,4.6,DSL,Two year,80.56,81,4430.8,4431,UPI,Yes,Yes,Yes,Yes,No
+CUST0079,62,5.2,Fiber Optic,One year,23.75,24,1472.5,1473,net banking,No,Yes,Yes,Yes,No
+CUST0080,23,1.9,DSL,One year,41.49,42,954.27,955,Electronic Check,Yes,Yes,No,No,Yes
+CUST0081,9,0.8,DSL,Two year,21.77,22,195.93,196,Mailed check,No,No,No,No,Yes
+CUST0082,12,1,None,Two year,59.85,60,718.2,719,UPI,Yes,No,No,No,Yes
+CUST0083,1,0.1,DSL,One year,58.1,59,58.1,59,net banking,Yes,No,No,No,Yes
+CUST0084,58,4.8,None,Two year,86.51,87,5017.58,5018,Electronic Check,Yes,No,Yes,Yes,No
+CUST0085,1,0.1,Fiber Optic,Month-to-month,44.62,45,44.62,45,UPI,Yes,Yes,No,No,Yes
+CUST0086,34,2.8,DSL,Month-to-month,85.31,86,2900.54,2901,net banking,Yes,No,Yes,No,No
+CUST0087,48,4,None,One year,97.44,98,4677.12,4678,Electronic Check,Yes,No,Yes,Yes,No
+CUST0088,1,0.1,None,One year,27.07,28,27.07,28,Mailed check,No,Yes,No,No,Yes
+CUST0089,16,1.3,Fiber Optic,One year,83.35,84,1333.6,1334,UPI,Yes,No,No,No,Yes
+CUST0090,61,5.1,DSL,Month-to-month,67.2,68,,0,net banking,Yes,No,Yes,Yes,No
+CUST0091,64,5.3,DSL,Two year,58.4,59,3737.6,3738,Electronic Check,Yes,Yes,Yes,Yes,No
+CUST0092,63,5.3,None,Month-to-month,53.64,54,3379.32,3380,UPI,Yes,Yes,Yes,Yes,No
+CUST0093,69,5.8,DSL,Two year,82.77,83,5711.13,5712,net banking,Yes,Yes,Yes,Yes,No
+CUST0094,22,1.8,None,Month-to-month,71.15,72,,0,Electronic Check,Yes,Yes,No,No,Yes
+CUST0095,67,5.6,DSL,Two year,84.4,85,5654.8,5655,Mailed check,Yes,No,Yes,Yes,No
+CUST0096,26,2.2,None,Month-to-month,92.25,93,2398.5,2399,UPI,Yes,Yes,No,No,Yes
+CUST0097,16,1.3,DSL,One year,69.38,70,1110.08,1111,net banking,Yes,No,No,No,Yes
+CUST0098,51,4.3,Fiber Optic,Month-to-month,98.44,99,5020.44,5021,Electronic Check,Yes,No,Yes,Yes,No
+CUST0099,57,4.8,DSL,Two year,68.65,69,3913.05,3914,UPI,Yes,Yes,Yes,Yes,No
+CUST0100,29,2.4,DSL,Month-to-month,70.93,71,2056.97,2057,net banking,Yes,Yes,No,No,Yes
