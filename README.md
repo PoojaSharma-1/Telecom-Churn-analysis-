@@ -5,6 +5,10 @@ Problem Statement: A telecom company is experiencing a decline in its subscriber
 ### Project Objective
 Analyze customer churn to identify key factors contributing to attrition and provide actionable recommendations to reduce churn, improve customer retention, and enhance business performance.
 
+Replace img link with img
+![image alt](telechurnreport.png)
+
+
 ### Project Description
 The telecom company is experiencing a decline in its subscriber base due to customer churn. This project aims to analyze the data using Power BI, and Excel to uncover patterns and insights related to customer churn. We will identify key factors contributing to churn, segment customers based on their behavior, predict potential churners, and visualize trends using dashboards. These insights will aid in making data-driven decisions to mitigate churn and enhance customer retention strategies.
 
