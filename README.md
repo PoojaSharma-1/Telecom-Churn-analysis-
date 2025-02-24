@@ -5,7 +5,7 @@ Problem Statement: A telecom company is experiencing a decline in its subscriber
 ### Project Objective
 Analyze customer churn to identify key factors contributing to attrition and provide actionable recommendations to reduce churn, improve customer retention, and enhance business performance.
 
-Replace img link with img
+
 ![image alt](telechurnreport.png)
 
 
