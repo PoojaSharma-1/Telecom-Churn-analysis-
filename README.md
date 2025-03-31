@@ -57,6 +57,7 @@ The telecom company is experiencing a decline in its subscriber base due to cust
 The project leverages the following technologies for customer churn analysis:
 
 **Excel**: Used for initial data summarization, calculating key metrics (churn rate, average monthly charges, average tenure), and identifying correlations between customer attributes and churn.
+**Power BI:** Power Query within Power BI was also likely used for data processing and preparation to ensure the data was in the optimal format for visualization and analysis.
 **Power BI**: Employed for data visualization, creating interactive dashboards to display key insights and trends, including churn rate over time, churn by contract type, and monthly charges.
 
 ### Recommendations
