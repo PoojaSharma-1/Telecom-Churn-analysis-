@@ -1,12 +1,15 @@
 # Telecom-Churn-analysis-
+
+
+
+![image alt](telechurnreport.png)
+
+
 Business Problem: Customer Churn Analysis for a Telecom Company
 Problem Statement: A telecom company is experiencing a decline in its subscriber base and wants to analyze customer churn to identify key reasons for customer attrition. Your task is to analyze the data, generate insights using SQL, Power BI, and Excel, and provide recommendations to reduce churn.
 
 ### Project Objective
 Analyze customer churn to identify key factors contributing to attrition and provide actionable recommendations to reduce churn, improve customer retention, and enhance business performance.
-
-
-![image alt](telechurnreport.png)
 
 
 ### Project Description
@@ -48,6 +51,25 @@ The telecom company is experiencing a decline in its subscriber base due to cust
 4. **Payment Method:** Certain payment methods (e.g., electronic checks) are linked to higher churn. Explore alternative payment options and promote the use of convenient methods such as auto-pay.
 5. **Service Issues:** Address common reasons for churn such as service quality and technical issues. Implement proactive measures to improve service reliability and customer satisfaction.
 
-Implementing these strategies will help the telecom company reduce churn, improve customer retention, and ultimately enhance business performance.
+
+### Technology Used
+
+The project leverages the following technologies for customer churn analysis:
+
+**Excel**: Used for initial data summarization, calculating key metrics (churn rate, average monthly charges, average tenure), and identifying correlations between customer attributes and churn.
+**Power BI**: Employed for data visualization, creating interactive dashboards to display key insights and trends, including churn rate over time, churn by contract type, and monthly charges.
+
+### Recommendations
+
+Based on the key insights, the following recommendations are made to reduce customer churn:
+
+1. **Incentivize Long-Term Contracts:** Offer incentives and benefits to encourage customers with month-to-month contracts to switch to longer-term agreements, as month-to-month contracts exhibit higher churn rates.
+2. **Evaluate Pricing Strategies:** Review current pricing models and consider offering discounts or bundling services to reduce the burden of high monthly charges, which correlate with increased churn.
+3. **Enhance New Customer Engagement:** Implement robust onboarding programs and personalized communication strategies to engage new customers with shorter tenure, as they are more likely to churn.
+
+
+### Conclusion
+
+This project aimed to analyze customer churn within the telecom company to identify the primary drivers of customer attrition and provide actionable recommendations. By employing Excel for initial data exploration and Power BI for advanced visualization, key insights were derived regarding the impact of contract type, monthly charges, and customer tenure on churn rates. The recommendations, focusing on incentivizing longer-term contracts, evaluating pricing strategies, and enhancing new customer engagement, offer a strategic framework for the telecom company to reduce churn, improve customer retention, and ultimately enhance business performance. Implementing and monitoring these recommendations will be crucial for achieving the project's objective of mitigating customer attrition.
 
 
